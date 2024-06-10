@@ -1,0 +1,31 @@
+body {
+    background: #24353f;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.group {
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+h1 {
+    color: #17a2b8;
+}
+a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}
+a {
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+}
+input, textarea {
+    background-color: transparent !important;
+    color: #fff !important;
+}
+button, input {
+    overflow: visible;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
